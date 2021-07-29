@@ -1,6 +1,6 @@
 # SKACAS "HOT BRAINS 2021" INTERNATIONAL LEVEL HACKATHON
 
-![Logo](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/489/736/datas/medium.png) 
+![Logo](https://www.spsvithackx.com/static/images/hack.png) 
 
 
 # About The Project
